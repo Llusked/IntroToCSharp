@@ -7,6 +7,7 @@ TagManager:
   - Boost
   - Jump
   - EndPlate
+  - PickObj
   layers:
   - Default
   - TransparentFX

@@ -8,4 +8,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Roll-a-Ball/Scenes/Level 2.unity
     guid: 5f9ff45cd18fd344590f7a41ae1c2887
+  - enabled: 1
+    path: Assets/Roll-a-Ball/Scenes/Level 1.unity
+    guid: d6a236f34cc7191489eb98789aa09caa
+  - enabled: 1
+    path: Assets/Roll-a-Ball/Scenes/Level 3.unity
+    guid: d41e74288e9bf5c4db6d1c77a178806f
+  - enabled: 1
+    path: Assets/Roll-a-Ball/Scenes/Level 4.unity
+    guid: 83e756cb9dfe2744aa174a74ba7ea7f0
   m_configObjects: {}

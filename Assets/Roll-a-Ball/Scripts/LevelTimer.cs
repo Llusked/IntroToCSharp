@@ -16,7 +16,7 @@ public class LevelTimer : MonoBehaviour
     {
         timeElapsed += Time.deltaTime;
 
-        Debug.Log(timeElapsed);
+        //Debug.Log(timeElapsed);
         int timeRemaining = timeLimit - (int)timeElapsed;
         if (timeRemaining < 0)
         {
