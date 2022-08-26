@@ -2,14 +2,14 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ColorPickup : BasePickup
+public class SizePickup : BasePickup
 {
-    public Material rewardMaterial;
+    public int newSize = 2;
+    public int playerSize = 1;
 
     protected override void ApplyPickup(Player target)
     {
         //base.ApplyPickup(target);
-        target.colorMaterials.Add(rewardMaterial);
+        target.transform.localScale = Vector3.one * newSize;
     }
-
 }

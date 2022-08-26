@@ -1822,11 +1822,11 @@ PrefabInstance:
       objectReference: {fileID: 8300000, guid: dd7c4802985d1b746a8a2c3db0b932ea, type: 3}
     - target: {fileID: 1938535167533311404, guid: fcf9deaadf4aff7459285a7f023d5d73, type: 3}
       propertyPath: boostSpeed
-      value: 15
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 1938535167533311404, guid: fcf9deaadf4aff7459285a7f023d5d73, type: 3}
       propertyPath: playerSpeed
-      value: 7
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 1938535167533311408, guid: fcf9deaadf4aff7459285a7f023d5d73, type: 3}
       propertyPath: m_RootOrder
